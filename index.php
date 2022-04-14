@@ -21,6 +21,8 @@
             </div>
 
             <div class="d">
+                <h2 class="title_h2">Statistiques Mondiales :</h2>
+
                 <div class="cas">
                     <h2>Nombre de cas :</h2>
                     <p>400,000,000 Cas</p>
@@ -32,5 +34,7 @@
                 </div>
             </div>
         </header>
+
+
     </body>
 </html>

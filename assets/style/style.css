@@ -20,7 +20,6 @@ header {
     width: 100%;
     font-family: 'Rubik';
     color: white;
-    font-size: 200%;
 }
 
 .bg_covid {
@@ -28,14 +27,21 @@ header {
     filter: blur(0.7rem);
 }
 
+h1 {
+    margin: 10px;
+    font-size: 300%;
+}
+
 .g {
     position: absolute;
     display: flex;
     flex-direction: column;
-    width: 40%;
+    width: 45%;
     justify-content: center;
     align-items: center;
     left: 5%;
+    top: 40%;
+    font-size: 200%;
 }
 
 .d {
@@ -46,6 +52,13 @@ header {
     justify-content: center;
     align-items: center;
     right: 5%;
+    top: 45%;
+    font-size: 150%;
+}
+
+.title_h2 {
+    font-size: 200%;
+    margin: 10px;
 }
 
 .cas {
