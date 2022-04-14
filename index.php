@@ -17,7 +17,7 @@
 
             <div class="g">
                 <h1>Covid Tracker</h1>
-                <p>Bienvenue sur Covid Tracker, ici vous verrez toutes les statistiques recenssés à propos de la covid.</p>
+                <p>Bienvenue sur Covid Tracker, ici vous verrez toutes les statistiques recenssés à propos de la covid dans le monde entier.</p>
             </div>
 
             <div class="d">
