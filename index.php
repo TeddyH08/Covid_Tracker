@@ -13,19 +13,24 @@
 
     <body>
         <header>
+            <img src="assets/img/bg_covid.jpg" class="bg_covid">
+
             <div class="g">
                 <h1>Covid Tracker</h1>
                 <p>Bienvenue sur Covid Tracker, ici vous verrez toutes les statistiques recenssés à propos de la covid.</p>
             </div>
 
             <div class="d">
-                <h2>Nombre de cas :</h2>
-                <p></p>
-                <h2>Nombre de décès :</h2>
-                <p></p>
+                <div class="cas">
+                    <h2>Nombre de cas :</h2>
+                    <p>400,000,000 Cas</p>
+                </div>
+
+                <div class="deces">
+                    <h2>Nombre de décès :</h2>
+                    <p>5,000,000 de décès</p>
+                </div>
             </div>
         </header>
-
-
     </body>
 </html>

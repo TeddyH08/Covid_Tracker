@@ -19,12 +19,51 @@ header {
     align-items: center;
     width: 100%;
     font-family: 'Rubik';
+    color: white;
+    font-size: 150%;
+}
+
+.bg_covid {
+    width: 100%;
+    filter: blur(0.7rem);
 }
 
 .g {
-    width: 50%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    left: 5%;
 }
 
 .d {
-    width: 50%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    justify-content: center;
+    align-items: center;
+    right: 5%;
+}
+
+.cas {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px;
+}
+
+.deces {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 10px;
+}
+
+header p {
+    margin: 10px;
 }
