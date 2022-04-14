@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteBase "/Covid_Tracker/"
+RewriteRule ^Covid$ index.php
