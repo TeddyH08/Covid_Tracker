@@ -114,3 +114,18 @@ input {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.graph {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 150%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+canvas {
+    width: 80% !important;
+    height: 500px !important;
+}

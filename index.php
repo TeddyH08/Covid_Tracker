@@ -48,6 +48,13 @@
             <h3 id="morts">Nombre de Morts : </h3>
         </div>
 
+        <div class="graph">
+            <h3>Graphique :</h3>
+            <canvas id="myChart" width="10px" height="10px"></canvas>
+        </div>
+
         <script src="assets/js/script.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="assets/js/chart.js"></script>
     </body>
 </html>
