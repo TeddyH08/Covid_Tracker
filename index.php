@@ -36,14 +36,14 @@
         </header>
 
         <div class="form">
-            <h3>Veuillez entrer un nom de pays :</h3>
+            <h3>Veuillez entrer un nom d'un pays :</h3>
             <form action="" method="post" id="myForm">
                 <input type="text" id="country" placeholder="Nom du Pays" required>
                 <input type="submit" value="Recherche">
             </form>
         </div>
 
-        <div>
+        <div class="nombre">
             <h3 id="cas">Nombre de Cas : </h3>
             <h3 id="morts">Nombre de Morts : </h3>
         </div>

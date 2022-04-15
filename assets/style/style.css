@@ -104,3 +104,11 @@ header p {
 input {
     font-size: 100%;
 }
+
+.nombre {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 150%;
+}
